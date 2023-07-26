@@ -1,0 +1,4 @@
+.gradient-primary {
+  background: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+  filter: brightness(60%);
+}
